@@ -1,6 +1,6 @@
 # TP – Desarrollo Colaborativo con Git y GitHub
 
-## Proyecto: Ideas para el Último Año
+## Proyecto: Ideas para el Último Año 
 
 Este repositorio contiene el **proyecto base** para el trabajo práctico de Git y GitHub.
 
