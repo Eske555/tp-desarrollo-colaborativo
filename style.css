@@ -57,3 +57,14 @@ padding:20px;
 background:#003366;
 color:white;
 }
+@media(max-width:600px){
+
+.propuesta{
+width:90%;
+}
+
+.hero{
+padding:40px;
+}
+
+}
